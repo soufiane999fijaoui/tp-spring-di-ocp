@@ -1,0 +1,9 @@
+metier\MetierImpl.class
+dao\DaoImpl2.class
+dao\DaoImpl.class
+config\AppConfig.class
+Main.class
+dao\DaoFile.class
+dao\IDao.class
+metier\IMetier.class
+dao\DaoApi.class

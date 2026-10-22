@@ -1,0 +1,6 @@
+config\ConteneurDeTest.class
+metier\OcpTest.class
+metier\MetierImplTest.class
+config\BasculeSourceTest.class
+dao\DaoImplTest.class
+metier\MetierImplTest$DaoFictif.class
